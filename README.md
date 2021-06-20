@@ -1,1 +1,1 @@
-# Time is a date that starts on 01/01/0000 and increases one day every second, it is always automatically saved, and when you open it your saved date is loaded, this program downloads it and leaves it open in the background of your computer, and nothing more
+# Time is a date that starts on 01/01/0000 and increases one day every second
